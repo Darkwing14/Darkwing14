@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Darkwing14
+- 👀 I’m interested in technology, AI, Minecraft, Linux, and more.
+- 🌱 I’m currently learning Python.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: The creator behind Modrinth's darkwing and Scratch's muppetboy14. If you don't believe me, you can ask!

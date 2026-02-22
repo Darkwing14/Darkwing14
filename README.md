@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Darkwing14
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The creator behind Modrinth's darkwing and Scratch's muppetboy14. If you don't believe me, you can ask!
+- Hi, I’m @Darkwing14
+- Pronouns: he/him
+- Fun fact: The creator behind Modrinth's darkwing and Scratch's muppetboy14. If you don't believe me, you can ask!
+- My corner of the internet: https://darkwing14.github.io/IndieWeb/

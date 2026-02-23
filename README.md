@@ -2,3 +2,5 @@
 - Pronouns: he/him
 - Fun fact: The creator behind Modrinth's darkwing and Scratch's muppetboy14. If you don't believe me, you can ask!
 - My corner of the internet: https://darkwing14.github.io/IndieWeb/
+
+You can sign my guestbook at https://github.com/Darkwing14/guestbook/issues
